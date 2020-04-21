@@ -1,12 +1,10 @@
 # Modelowanie Wieloagentowe [234900-0286], lato 2019/20
 
----
 
 ## Prowadzący:
 * Wykłady: Bogumił Kamiński, http://www.bogumilkaminski.pl
 * Ćwiczenia: Łukasz Kraiński, lukasz.krainski123@gmail.com
 
----
 
 ## Plan zajęć
 
@@ -21,14 +19,12 @@
 |02-06-20 | Prezentacja modelu symulacyjnego 1|
 |09-06-20 | Prezentacja modelu symulacyjnego 2|
 
----
 
 ## Literatura
 
 * Kamiński B. (2012), Podejście Wieloagentowe do Modelowania Rynków. Metody i Zastosowania, Oficyna Wydawnicza Szkoła Główna Handlowa w Warszawie
 * Dodatkowa: B. Kamiński, P. Szufel: Julia 1.0 Programming Cookbook, Packt Publishing, 2018 (https://www.packtpub.com/application-development/julia-10-programming-cookbook)
 
----
 
 ## Zasady zaliczenia
 
@@ -46,7 +42,6 @@ Punktacja a ocena końcowa
 |80 |89 |Dobry plus|
 |90 |100 |Bardzo dobry|
 
----
 
 ## Zasady dotyczące modelu symulacyjnego
 
