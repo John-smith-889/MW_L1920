@@ -12,7 +12,7 @@
 |Termin ćwiczeń |Ćwiczenia|
 |---------------|---------|
 |28-04-20 | Asymetria informacji i ograniczona racjonalność w symulacji wieloagentowej|
-|05-05-20 | Wieloagentowy system kolejkowy|
+|05-05-20 | DifPy: propagacja informacji w sieciach społecznych|
 |12-05-20 | Modele automatów komórkowych|
 |19-05-20 | Uczenie ze wzmocnieniem: wprowadzenie i proces decyzyjny Markowa|
 |26-05-20 | Uczenie ze wzmocnieniem: metody Monte Carlo|
