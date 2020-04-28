@@ -13,9 +13,9 @@
 |---------------|---------|
 |28-04-20 | Asymetria informacji i ograniczona racjonalność w symulacji wieloagentowej|
 |05-05-20 | DifPy: propagacja informacji w sieciach społecznych|
-|12-05-20 | Modele automatów komórkowych|
-|19-05-20 | Uczenie ze wzmocnieniem: wprowadzenie i proces decyzyjny Markowa|
-|26-05-20 | Uczenie ze wzmocnieniem: metody Monte Carlo|
+|12-05-20 | Uczenie ze wzmocnieniem: wprowadzenie i proces decyzyjny Markowa|
+|19-05-20 | Uczenie ze wzmocnieniem: metody Monte Carlo i Temporal Difference|
+|26-05-20 | Uczenie ze wzmocnieniem: metody głębokie - DQN, Actor-Critic|
 |02-06-20 | Prezentacja modelu symulacyjnego 1|
 |09-06-20 | Prezentacja modelu symulacyjnego 2|
 
@@ -25,10 +25,11 @@
 * Kamiński B. (2012), Podejście Wieloagentowe do Modelowania Rynków. Metody i Zastosowania, Oficyna Wydawnicza Szkoła Główna Handlowa w Warszawie
 * Dodatkowa: B. Kamiński, P. Szufel: Julia 1.0 Programming Cookbook, Packt Publishing, 2018 (https://www.packtpub.com/application-development/julia-10-programming-cookbook)
 
+* Dodatkowa: R. Sutton, A. Barto: Reinforcement Learning: An Introduction, MIT Press, 2018 (http://incompleteideas.net/book/RLbook2020.pdf)
 
 ## Zasady zaliczenia
 
-* Rozwiązania prac domowych (maksymalnie 30 punktów): **trzy** wybrane prace domowe - proszę zamieścić pliki z rozwiązaniami na repozytorium na GitHubie (preferowane pliki `.ipynb` albo skrypt z kodem i plik `.pdf/.html` z raportem) i przesłać link na lukasz.krainski123@gmail.com
+* Rozwiązania prac domowych (maksymalnie 30 punktów): **trzy** wybrane prace domowe - proszę zamieścić pliki z rozwiązaniami na **prywatnym** repozytorium na GitHubie i dodać mnie jako kolaboratora (preferowane pliki `.ipynb` albo skrypt z kodem i plik `.pdf/.html` z raportem). Po dodaniu prac domowych będę zamieszczał ewentualne komentarze w formie Issue lub Pull Requesta - kod prac domowych będzie można poprawiać do **09-06-2020 EOD**.
 
 * Raport i prezentacja z budowy modelu symulacyjnego (maksymalnie 70 punktów)
 
@@ -46,10 +47,12 @@ Punktacja a ocena końcowa
 ## Zasady dotyczące modelu symulacyjnego
 
 ### Praca grupowa
-Projekt należy wykonać w zespołach maksymalnie 2-osobowych. Skład i nazwy zespołów proszę wysłać na lukasz.krainski123@gmail.com  do **05-05-2020 EOD**. Po otrzymaniu wszystkich zgłoszeń, zespoły zostaną losowo przydzielone do prezentowania 2. lub 9. czerwca. Daty prezentowania wraz z nazwami zespołów pojawią się w poniższym pliku README.
+Projekt należy wykonać w zespołach maksymalnie **1-osobowych** (ze względu na małą liczbę uczestników ćwiczeń). Nazwę zespołu (+ ewentualnie tematykę projektu jeśli Państwo zdecydują w ciągu tygodnia) proszę wysłać na lukasz.krainski123@gmail.com do **05-05-2020 EOD**. Po otrzymaniu wszystkich zgłoszeń, zespoły zostaną losowo przydzielone do prezentowania 2. lub 9. czerwca. Daty prezentowania wraz z nazwami zespołów pojawią się w poniższym pliku README.
 
 ### Terminy
-Prezentacje należy przygotować do dnia prezentowania (ewentualna improwizacja na żywo również jest możliwa, ale nie jest zalecana). Niezależnie od dnia prezentacji, wszystkie pliki (prezentację, kod, raport) należy spakować i przesłać do **09-06-2020 EOD** na lukasz.krainski123@gmail.com.
+Prezentacje należy przygotować do dnia prezentowania (ewentualna improwizacja na żywo również jest możliwa, ale nie jest zalecana). Niezależnie od dnia prezentacji, wszystkie pliki (prezentację, kod, raport) należy spakować i przesłać do **09-06-2020 EOD** na lukasz.krainski123@gmail.com. 
+
+Pliki można również zamieścić w repo na GitHubie i przesłać na maila tylko link do repozytorium.
 
 ### Pliki i wysyłka
 
