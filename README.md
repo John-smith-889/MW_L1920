@@ -12,7 +12,7 @@
 |Termin ćwiczeń |Ćwiczenia|
 |---------------|---------|
 |28-04-20 | Asymetria informacji i ograniczona racjonalność w symulacji wieloagentowej|
-|05-05-20 | Wieloagentowy system kolejkowy|
+|05-05-20 | DifPy: propagacja informacji w sieciach społecznych|
 |12-05-20 | Modele automatów komórkowych|
 |19-05-20 | Uczenie ze wzmocnieniem: wprowadzenie i proces decyzyjny Markowa|
 |26-05-20 | Uczenie ze wzmocnieniem: metody Monte Carlo|
@@ -46,10 +46,10 @@ Punktacja a ocena końcowa
 ## Zasady dotyczące modelu symulacyjnego
 
 ### Praca grupowa
-Projekt należy wykonać w zespołach maksymalnie 3-osobowych. Skład i nazwy zespołów proszę wysłać na lukasz.krainski123@gmail.com  do **05-05-2020 EOD**. Po otrzymaniu wszystkich zgłoszeń, zespoły zostaną losowo przydzielone do prezentowania 2. lub 9. czerwca. Daty prezentowania wraz z nazwami zespołów pojawią się w poniższym pliku README.
+Projekt należy wykonać w zespołach maksymalnie 2-osobowych. Skład i nazwy zespołów proszę wysłać na lukasz.krainski123@gmail.com  do **05-05-2020 EOD**. Po otrzymaniu wszystkich zgłoszeń, zespoły zostaną losowo przydzielone do prezentowania 2. lub 9. czerwca. Daty prezentowania wraz z nazwami zespołów pojawią się w poniższym pliku README.
 
 ### Terminy
-Prezentacje należy przygotować do dnia prezentowania (ewentualna improwizacja na żywo również jest możliwa, ale nie jest zalecana). Niezależnie od dnia prezentaji, wszystkie pliki (prezentację, kod, raport) należy spakować i przesłać do **09-06-2020 EOD** na lukasz.krainski123@gmail.com.
+Prezentacje należy przygotować do dnia prezentowania (ewentualna improwizacja na żywo również jest możliwa, ale nie jest zalecana). Niezależnie od dnia prezentacji, wszystkie pliki (prezentację, kod, raport) należy spakować i przesłać do **09-06-2020 EOD** na lukasz.krainski123@gmail.com.
 
 ### Pliki i wysyłka
 
@@ -70,7 +70,7 @@ Przykładowe tematy modeli:
 * Modele oparte na grafach (rozprzestrzenianie się chorób/informacji)
 * Systemy kolejkowe
 * Automaty komórkowe, "Game Of Life", predator-prey
-* Modele Reinforcement Learning (Actor-Critic, Q-Learning, OpenAI Gym)
+* Modele Reinforcement Learning (Actor-Critic, Q-Learning, itd.) - potencjalnie wykorzystanie frameworka OpenAI Gym
 
 ### Struktura raportu
 
